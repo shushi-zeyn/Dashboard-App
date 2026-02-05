@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environnement virtuel
+.venv/
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+
+# Fichiers temporaires
+*.log
+*.tmp
+
+# Données locales (ne pas versionner les fichiers de test de l'utilisateur)
+*.csv
+*.xlsx
+*.xls
