@@ -16,7 +16,10 @@ env/
 *.log
 *.tmp
 
-# Données locales (ne pas versionner les fichiers de test de l'utilisateur)
+# Données locales
 *.csv
 *.xlsx
 *.xls
+
+# FICHIERS PRIVÉS (CORE)
+src/core/graph_manager.py
